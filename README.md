@@ -1,31 +1,27 @@
-<h1 align="center">Hello 👋, I'm Ibrahim Suleiman</h1>
-<h3 align="center">An enthusiastic frontend developer from Nigeria.</h3>
+# Hi, I'm Ibrahim Suleiman
 
-- 🌱 I’m currently learning **JavaScript from MDN Web Docs, Frontend Development from Coursera, Digital Skills from McKinsey Forward Program, Freelancing from a NITDA Scholarship on Coursera**
 
-- 👨‍💻 Checkout my portfolio at [ebeesule.carrd.co](ebeesule.carrd.co)
+## About Me
 
-- 💬 I love talking about **Web Development, specifically Frontend.**
+I am a dedicated frontend developer driven by a passion for leveraging technology to make meaningful impact. As an enthusiastic learner, my overarching goal is to extend the benefits of technology to underserved communities, fostering greater access and inclusivity.
 
-- 📫 You can reach me on **ebeeraheem@gmail.com**
+## Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ebeesule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebeesule" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ebeesule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebeesule" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ebeesule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ebeesule" height="30" width="40" /></a>
-<a href="https://fb.com/ebeesule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebeesule" height="30" width="40" /></a>
-<a href="https://instagram.com/ebee_sule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ebee_sule" height="30" width="40" /></a>
-<a href="https://dribbble.com/ebeesule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ebeesule" height="30" width="40" /></a>
-<a href="https://www.behance.net/ebeesule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ebeesule" height="30" width="40" /></a>
-</p>
+⌛ This is the latest project I worked on [Background Color Generator](https://background-color-generator-mu.vercel.app/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+✨ I had fun working on this project [Soft Pink](https://soft-pink.vercel.app/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebeeraheem&show_icons=true&locale=en&layout=compact" alt="ebeeraheem" /></p>
+🌚 It was late at night and I couldn't sleep, so I made this [Dark Hero](https://ebeeraheem.github.io/dark-hero/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebeeraheem&show_icons=true&locale=en" alt="ebeeraheem" /></p>
+## What I'm up to
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebeeraheem&" alt="ebeeraheem" /></p>
+📖 I’m currently learning **JavaScript** from the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
+🕊️ Reach out to me at [ebeeraheem@gmail.com](mailto:ebeeraheem@gmail.com)
+
+💼 Connect with me on [LinkedIn](https://linkedin.com/in/ebeesule)
+
+🌟 **Fun Fact**: I can build engaging websites with **Wordpress**
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebeeraheem&show_icons=true&theme=dark&title_color=f0f0f0&text_color=f0f0f0&bg_color=052248&locale=en&layout=compact" alt="ebeeraheem" /></p>
