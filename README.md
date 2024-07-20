@@ -3,19 +3,19 @@
 
 ## About Me
 
-I am a dedicated frontend developer driven by a passion for leveraging technology to make meaningful impact. As an enthusiastic learner, my overarching goal is to extend the benefits of technology to underserved communities, fostering greater access and inclusivity.
+I am a dedicated software engineer driven by a passion for leveraging technology to make meaningful impact. As an enthusiastic learner, my overarching goal is to extend the benefits of technology to underserved communities, fostering greater access and inclusivity.
 
 ## Projects
 
-⌛ This is the latest project I worked on [Background Color Generator](https://background-color-generator-mu.vercel.app/)
+⌛ This is the latest project I worked on [Clinch Delicacies](https://github.com/ebeeraheem/Clinch)
 
-✨ I had fun working on this project [Soft Pink](https://soft-pink.vercel.app/)
+✍️ I recently created a personal note taking app [Clinch Recipes](https://clinch-recipes.onrender.com/)
+
+✨ I had fun working on this project [Infinion Coding Challenge](https://github.com/ebeeraheem/Infinion_Coding_Challenge)
 
 🌚 It was late at night and I couldn't sleep, so I made this [Dark Hero](https://ebeeraheem.github.io/dark-hero/)
 
 ## What I'm up to
-
-📖 I’m currently learning **JavaScript** from the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 🕊️ Reach out to me at [ebeeraheem@gmail.com](mailto:ebeeraheem@gmail.com)
 
