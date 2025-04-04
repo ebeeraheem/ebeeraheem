@@ -1,27 +1,41 @@
-# Hi, I'm Ibrahim Suleiman
+# 👋 Hi, I'm Ibrahim Suleiman
 
+**Backend Software Engineer** passionate about crafting scalable, secure, and efficient systems using **.NET** technologies.
 
-## About Me
+- 🔭 I’m currently building fullstack web apps using **ASP.NET Core MVC**, **EF Core**, and **SQL Server**
+- 🌱 I’m deepening my skills in **system architecture**, **microservices**, and **distributed systems**
+- 👯 I love collaborating on clean APIs, backend logic, and dev tools that make life easier
+- 💡 Exploring concepts like **event-driven systems** and **DevOps workflows**
+- 💬 Ask me about `.NET`, `Web APIs`, `Entity Framework`, or managing backend complexity
 
-I am a dedicated software engineer driven by a passion for leveraging technology to make meaningful impact. As an enthusiastic learner, my overarching goal is to extend the benefits of technology to underserved communities, fostering greater access and inclusivity.
+## 🚀 Featured Projects
 
-## Projects
+- 🏫 **Kano State CHST Portal**  
+  Fullstack online student registration system with academic session and user management.
 
-⌛ This is the latest project I worked on [Clinch Delicacies](https://github.com/ebeeraheem/Clinch)
+- 📘 **CodeStash**  
+  A snippet sharing and management platform with version control and privacy support.
 
-✍️ I recently created a personal note taking app [Clinch Recipes](https://clinch-recipes.onrender.com/)
+- 🛒 **Clinch Delicacies**  
+  Modular e-commerce API with secure authentication and robust structure.
 
-✨ I had fun working on this project [Infinion Coding Challenge](https://github.com/ebeeraheem/Infinion_Coding_Challenge)
+- 💳 **POS Terminal Management System**  
+  RBAC-enabled system for managing merchants, wallets, and disputes.
 
-🌚 It was late at night and I couldn't sleep, so I made this [Dark Hero](https://ebeeraheem.github.io/dark-hero/)
+## 🛠️ Tech Stack
 
-## What I'm up to
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-🕊️ Reach out to me at [ebeeraheem@gmail.com](mailto:ebeeraheem@gmail.com)
+## 📫 Let’s Connect
 
-💼 Connect with me on [LinkedIn](https://linkedin.com/in/ebeesule)
+- 📧 Email: ebeeraheem@gmail.com  
+- 🌐 [Portfolio](https://ebeesule.netlify.app)  
+- 💼 [LinkedIn](https://linkedin.com/in/ebeesule)
 
 🌟 **Fun Fact**: I can build engaging websites with **Wordpress**
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebeeraheem&show_icons=true&theme=dark&title_color=f0f0f0&text_color=f0f0f0&bg_color=052248&locale=en&layout=compact" alt="ebeeraheem" /></p>
