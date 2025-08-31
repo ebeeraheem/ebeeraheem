@@ -14,7 +14,7 @@
 - 🌱 Deepening expertise in **system architecture**, **microservices**, and **distributed systems**
 - 👯 Love collaborating on clean APIs, backend logic, and developer tools
 - 💡 Exploring **event-driven architectures** and **cloud-native solutions**
-- 💬 Ask me about `.NET`, `Web APIs`, `Entity Framework`, or managing backend complexity
+- 💬 Ask me about `.NET`, `Web APIs`, `Entity Framework Core`, or managing backend complexity
 - ⚡ Fun fact: I can build engaging websites with **WordPress** too!
 
 ## 🛠️ Tech Stack & Tools
@@ -38,28 +38,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏫 **[Kano State CHST Portal](https://github.com/ebeeraheem/your-repo)** | Fullstack student registration system with academic session management | ASP.NET Core MVC, EF Core, SQL Server |
-| 📘 **[CodeStash](https://github.com/ebeeraheem/your-repo)** | Snippet sharing platform with version control and privacy features | .NET, Web API, PostgreSQL |
-| 🛒 **[Clinch Delicacies](https://github.com/ebeeraheem/your-repo)** | Modular e-commerce API with secure authentication | ASP.NET Core, JWT, Clean Architecture |
-| 💳 **[POS Terminal Management](https://github.com/ebeeraheem/your-repo)** | RBAC-enabled system for merchant and wallet management | .NET, RBAC, Microservices |
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebeeraheem&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebeeraheem&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ## 🎯 Current Focus
 
